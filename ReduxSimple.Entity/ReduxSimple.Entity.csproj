@@ -4,7 +4,6 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>ReduxSimple.Entity</RootNamespace>
     <PackageId>ReduxSimple.Entity</PackageId>
-    <Version>3.0.0-preview001</Version>
     <Authors>David Bottiau</Authors>
     <Description>Simple Stupid Redux Store using Reactive Extensions</Description>
     <PackageProjectUrl>https://github.com/Odonno/ReduxSimple</PackageProjectUrl>
